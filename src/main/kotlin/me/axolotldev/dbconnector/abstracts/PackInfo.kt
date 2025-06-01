@@ -32,7 +32,7 @@ object PackInfo {
     const val PACK_NAME = "DBConnector-Abstracts"
 
     /** The current version of the package */
-    const val PACK_VERSION = "1.0.0"
+    const val PACK_VERSION = "1.0.1"
 
     /** A short description of the package */
     const val DESCRIPTION = "Abstract interfaces for base action to database"

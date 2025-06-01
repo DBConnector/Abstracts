@@ -26,7 +26,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
     <groupId>me.axolotldev.dbconnector</groupId>
     <artifactId>Abstracts</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>DBConnector-Abstracts</name>
 
