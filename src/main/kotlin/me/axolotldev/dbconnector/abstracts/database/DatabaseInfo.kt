@@ -17,7 +17,9 @@
 *
 */
 
-package me.axolotldev.dbc.abstracts.database
+package me.axolotldev.dbconnector.abstracts.database
+
+import kotlin.collections.iterator
 
 /**
  * Data class representing the basic information needed to connect to a database.

@@ -17,7 +17,7 @@
 *
 */
 
-package me.axolotldev.dbc.abstracts.database
+package me.axolotldev.dbconnector.abstracts.database
 
 import java.lang.AutoCloseable
 import java.sql.CallableStatement

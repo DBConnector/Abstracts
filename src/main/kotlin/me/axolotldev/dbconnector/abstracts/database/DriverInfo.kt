@@ -17,7 +17,7 @@
 *
 */
 
-package me.axolotldev.dbc.abstracts.database
+package me.axolotldev.dbconnector.abstracts.database
 
 /**
  * Interface representing a database driver information and URI generation.

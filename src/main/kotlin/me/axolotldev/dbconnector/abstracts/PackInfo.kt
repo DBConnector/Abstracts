@@ -17,7 +17,7 @@
 *
 */
 
-package me.axolotldev.dbc.abstracts
+package me.axolotldev.dbconnector.abstracts
 
 /**
  * Holds package metadata information for the DBConnector-Abstracts library.
